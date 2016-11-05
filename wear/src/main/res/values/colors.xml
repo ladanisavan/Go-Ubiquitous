@@ -11,4 +11,10 @@
     <color name="primary_text">#212121</color>
     <color name="secondary_text">#727272</color>
 
+    <color name="digital_background">#03A9F4</color>
+    <color name="main_text">#ffffff</color>
+    <color name="second_text">#e3e3e3</color>
+
+    <color name="digital_background_ambient">#000</color>
+
 </resources>

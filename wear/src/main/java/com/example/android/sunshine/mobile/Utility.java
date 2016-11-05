@@ -1,4 +1,4 @@
-package com.example.android.sunshine.wear;
+package com.example.android.sunshine.mobile;
 
 public class Utility {
 
